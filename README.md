@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @cappygamer
-- 👀 I’m interested in the SCP Genre
-- 🌱 I’m currently learning creative engineering
-- 💞️ I’m looking to collaborate on discord bots
-- 📫 How to reach me ActiveCaptain#6969
+hello im cappy. im a funny gamer man from germany who likes to script stuff in LUA
 
 <!---
 cappygamer/cappygamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
