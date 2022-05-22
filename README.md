@@ -1,4 +1,4 @@
-hello im cappy. im a funny gamer man from germany who likes to script stuff in LUA
+Hello! I'm cappy, Also known as TH3LT or ActiveCaptain. I do stuff in Python and LUA. 
 
 <!---
 cappygamer/cappygamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
